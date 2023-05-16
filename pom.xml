@@ -10,8 +10,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>org.example</groupId>
-    <artifactId>assignment</artifactId>
+    <groupId>com.assignment</groupId>
+    <artifactId>exercise</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
